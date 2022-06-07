@@ -1,0 +1,9 @@
+name: SkittleHub
+version: '${project.version}'
+main: org.roguemc.skittlehub.SkittleHub
+api-version: 1.16
+authors: [ VirusDetected ]
+commands:
+  spawn:
+    description: Teleports you to spawn.
+    usage: /spawn
